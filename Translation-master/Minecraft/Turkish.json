@@ -1,0 +1,227 @@
+{
+  "Translation": {
+    "NAME": "Turkish",
+    "URL": "https://github.com/xXBuilderBXx/Translation/blob/master/Minecraft/English.json",
+    "Users": {
+      "306778429565435906": "eliteeliteSeraTT#1985"
+    }
+  },
+
+  "Error": {
+    "API_ERROR_": "API Hatası",
+    "NO_LIST_": "Bu toplulukta listelenen bir sunucu yok",
+    "NOT_VOTED_": "Bota oy vermemişsin",
+    "PLAYER_NOT_FOUND_": "Oyuncu bulunamadı",
+    "PLAYER_NO_STATS_": "Oyuncunun istatistikleri yok",
+    "NO_ATTACH_FILES_": "Bot Dosya Ekleme İznine Sahip Değil",
+    "NO_MANAGE_ROLES_": "Bot Rolleri Yönetme iznine sahip değil",
+    "NO_READ_MESSAGES_": "Bot Mesaj Okuma İznine Sahip Değil",
+    "NO_SEND_MESSAGES_": "Bot Mesaj Gönderme Yetkisine Sahip Değil",
+    "NO_EMBED_LINKS_": "Bot Bağlantı paylaşma iznine sahip değil",
+    "NOT_LINKED_": "Kullanıcının bağlı bir hesabı yok"
+  },
+  "Ping": {
+    "CMD_JAVA_": "Minecraft server pingi",
+    "CMD_PE_": "pocket edition server pingi",
+    "CMD_FULL_": "Minecraft oyuncu listesi pingleyin",
+    "CMD_BANNER_": "afiş sürümü ",
+    "WAIT_": "Lütfen bekleyin",
+    "NO_ENABLE_QUERY_": "Sunucunun server.properties kümesinde enable-query ayarlaması yok",
+    "INVALID_IP_": "IP adresi bulunamadı",
+    "INVALID_PORT_": "Server portu bulunamadı",
+    "ON_COOLDOWN_": "1 dakika bekle",
+    "NO_PLAYERS_": "Aktif oyuncu yok"
+  },
+  "Help": {
+    "CMD_USER_": "Kullanıcı profili",
+    "CMD_VERIFY_": "Minecraft hesabınızı doğrulayın",
+    "CMD_BOT_": "Bot bilgisi",
+    "CMD_QUIZ_": "Minecraft testi",
+    "CMD_COLOR_": "Minecraft renk kodları",
+    "CMD_LIST_": "Topluluk sunucuları",
+    "CMD_UUID_": "Bir oyuncu UUID al",
+    "MULTI_MC_": "kolay mod kurulumu ile farklı Minecraft versiyonlarını yönetmenizi ve yüklemenizi sağlar",
+    "CMD_SKIN_": "Oyuncuların skinini alın",
+    "CMD_NAME_": "Oyuncunun isim değişiklik geçmişini alın",
+    "CMD_GET_": "Minecraft başarımı alın",
+    "CMD_CHANGELOG_": "Eski minecraft versiyonu",
+    "CMD_VERSION_": "Version bilgisi",
+    "CMD_WIKI_": "Full Minecraft kılavuzu",
+    "CMD_GALLERY_": "Bannerler ve artwork'lar",
+    "CMD_RCON_": "Minecraft sunucunuz için uzak konsol",
+    "CMD_PLAYING_": "Kullanıcı minecraft oynuyor",
+    "CMD_ADMIN_": "Discord admin komutları",
+    "CMD_INVITE_": "Botu davet et",
+    "FOOTER_": "Bazı gizli şeylerde var mesela benim gibi :)"
+  },
+  "Main": {
+    "HAVE_ISSUES_": "Bir sorunmu var? Benimle discord'tan iletişime geçin",
+    "PLAYER_STATS_": "Oyuncu istatistikleri",
+    "GET_STATS_": "Oyuncu istatistiklerini alın",
+    "STOLE_SKIN_": "Bir skin çaldın",
+    "FOUND_HIDDEN_": "Gizli bir komut buldun Mükemmelsin!"
+  },
+  "User": {
+    "NOT_VERIFIED_": "Kullanıcı minecraft hesabını doğrulamamış",
+    "LAST_PLAYED_": "Eski oyunları;",
+    "BADGES_": "Başarım",
+    "BADGES_INFO_": "Başarımları görüntüle",
+    "NO_BADGES_": "Başarımın yok :(",
+    "INVALID_ID_": "Böyle bir Kullanıcı ID yok"
+  },
+  "Badges": {
+    "OWNER_": "Botun sahibi",
+    "MOB_HUNTER_": "Canavar avcısı",
+    "VOTED_": "Bota oy ver!",
+    "TRANSLATOR_": "Botun çevrilmesinde yardımcı olan",
+    "VERIFIED_": "Onaylı minecraft hesabı",
+    "PLAYED_ON_": "Oynandı",
+    "HIDDEN_": "Bazı mükemmel rozetler gizli"
+  },
+  "Get": {
+    "HI_": "Hi",
+    "TEXT_LIMIT_": "Metin 22 harften fazla olamaz"
+  },
+  "Names": {
+    "FIRST_": "First",
+    "ONLY_ONE_": "Kullanıcı sadece 1 isme sahip"
+  },
+  "Misc": {
+    "SOFTWARE_": "Yazılım",
+    "YES_": "Evet",
+    "NO_": "Hayır",
+    "PLAYER_": "Oyuncu",
+    "PLAYERS_": "Oyuncular",
+    "ENABLED_": "Aktif",
+    "DISABLED_": "De-aktif"
+  },
+  "RconSetup": {
+    "INFO_": "Minecraft sunucusu sahiplerinin herhangi bir eklenti veya mod gerekmeden Discord'dan komut çalıştırmasına izin verir",
+    "INFO2_": "Kullanmaya başlamak için"
+  },
+  "Rcon": {
+    "TITLE_": "Uzaktan konsol",
+    "INFO_": "Minecraft sunucusu komutlarını kullanarak çalıştır",
+    "EXECUTED_": "Komut çalıştırıldı",
+    "ENABLED_": "Uzak konsol etkin",
+    "DISABLED_": "Uzak konsol de-etkin ",
+    "FIX_ATTEMPT_": "Uzak konsol bağlantısını düzeltmeye çalışıyor",
+    "RESET_CONFIRM_": "Lütfen sıfırlamayı onayla",
+    "RESET_": "Uzak konsol yapılandırması silindi"
+  },
+  "RconAccess": {
+    "ADD_ALREADY_": "Bu kullanıcı zaten erişime sahip",
+    "WARN_": "Bazı komutlar varsayılan olarak kara listeye alınmıştır",
+    "OWNER_": "Komutlara ve config'e tam erişim",
+    "ADMIN_": "Kara listede olmayan komutlara erişim",
+    "MOD_": "Yasaklama, yasaklama ve atma komutlarına erişim",
+    "INFO_": "Diğer kullanıcıların uzak konsol komutlarını kullanmasına izin ver",
+    "SELECT_ROLE_": "Kullanıcı için bir rol seçin",
+    "UNKNOWN_ROLE_": "Bilinmeyen rol",
+    "GIVEN_": "Kullanıcıya uzaktan konsol erişimi verildi",
+    "REMOVE_ALREADY_": "Bu kullanıcının erişimi yok",
+    "REMOVE_MAIN_OWNER_": "gerçek bir kurucuyu kaldıramazsın",
+    "REMOVE_OWNER_": "bir kurucuyu kaldiramazsın",
+    "REMOVED_": "Kullanıcı uzak konsol erişiminden kaldırıldı"
+  },
+  "RconBlacklist": {
+    "INFO_": "Yalnızca sahipler kara listeye alınmış komutları kullanabilir",
+    "ALREADY_BLACKLISTED_": "Bu komut zaten kara listeye alındı",
+    "NO_BLACKLIST_": "Hiçbir komut kara listeye alınmadı",
+    "NOT_BLACKLISTED_": "Bu komut kara listede değil",
+    "ADDED_": "Kara listeye komut eklendi",
+    "REMOVED_": "Komut kara listeden kaldırıldı"
+  },
+  "RconCmd": {
+    "CONFIG_": "Uzak konsol yapılandırmasını görüntüleyin",
+    "BLACKLIST_": "Kara liste yalnızca sahibine komut verir",
+    "ACCESS_": "Diğer kullanıcılara yetki ver",
+    "ENABLE_": "Uzak konsolu etkinleştir",
+    "DISABLE_": "Uzak konsolu devre dışı bırak",
+    "FIX_": "Uzak konsolu düzeltmeye çalış",
+    "RESET_": "Uzak konsol yapılandırmasını silin"
+  },
+  "RconError": {
+    "NOT_SETUP_": "Uzak konsol kurulum kullanımı olmamıştır",
+    "NO_ACCESS_": "Uzaktan konsol erişiminiz yok",
+    "BLACKLISTED_": "Komut kara listeye alındı, yalnızca sahibi çalıştırabilir",
+    "NOT_MAIN_OWNER_": "Sadece gerçek sahibi kullana bilir",
+    "NOT_OWNER_": "Bunu yalnızca sahibi kullanabilir.",
+    "NOT_ADMIN_": "Bunu yalnızca bir yönetici kullanabilir",
+    "ALREADY_CONNECTED_": "Uzak konsol zaten bağlı",
+    "RCON_WAIT_": "Uzak konsol zaten bağlanıyor, lütfen bekleyin",
+    "WRONG_PASSWORD_": "Uzak konsol şifresi yanlış",
+    "CMD_ERROR_": "Komut çalıştırılamadı"
+  },
+  "Wiki": {
+    "UNKNOWN_ITEM_": "bilinmeyen wiki eşyası"
+  },
+  "Version": {
+    "UNKNOWN_VERSION_": "Bilinmiyen Minecraft version'u",
+    "NO_CLIENT_MODS_": "Bu sürüm için müşteri kipi yok",
+    "RELEASED_": "Yayınlandı",
+    "COMING_SOON_": "Çok yakında",
+    "VERSIONS_": "Versiyonlar",
+    "RECOMMENDED_": "Tavsiye edilen"
+  },
+  "Mob": {
+    "ATTACK_": "Saldır",
+    "EASY_": "Kolay",
+    "NORMAL_": "Normal",
+    "HARD_": "Zor",
+    "HEALTH_": "Can",
+    "HEIGHT_": "yükseklik",
+    "WIDTH_": "Width",
+    "BLOCKS_": "Blokladı",
+    "UNKNOWN_": "Bilinmiyor"
+  },
+  "Gallery": {
+    "BANNER_RANDOM_": " rastgele banner",
+    "BANNER_NAME_": "banner adı ver",
+    "BANNER_UNKNOWN_": "Bilinmeyen banner adı",
+    "ART_RANDOM_": "rastgele artwork ver",
+    "WALLPAPER_RANDOM_": "random duvar kağıdı ver"
+  },
+  "Verify": {
+    "TITLE_": "Minecraft hesap doğrulama",
+    "INFO_": "Minecraft hesabınızı harika özellikler ve roller için doğrulayın",
+    "USERS_": "Doğrulanmış kullanıcı",
+    "STEP1_": " Minecraft 1.12.2 sürümünü yükle",
+    "STEP2_": "Servere gir",
+    "STEP3_": "Bunu Discord'a yazın",
+    "ALREADY_": "Kullanıcı doğrulandı",
+    "SERVER_DOWN_": "Doğrulama sunucusuna bağlı değil",
+    "NOT_IN_SERVER_": "Sen sunucuda değilsin",
+    "THANKS_": "Minecraft bot kullandığınız ve doğruladığınız için teşekkurler",
+    "FAILED_ROLE_": "Minecraft rollerini verirken hata oldu",
+    "VERIFIED_": "Minecraft hesabınız doğrulandı",
+    "GIVEN_ROLE_": "Minecraft Rollerin doğrulandı"
+  },
+  "AdminCommands": {
+    "CMD_LANG_": "Topluluk dili güncellendi",
+    "CMD_ROLE_": "Doğrulanmış kullanıcılar için bir Minecraft rolü oluşturun",
+    "CMD_AUTOPOST_": "Minecraft sunucunuzun durumunu otomatik olarak kaydedin",
+    "CMD_ADD_": "Bir Minecraft sunucusu listeye ekle",
+    "CMD_DEL_": "Bir Minecraft sunucusunu listeden kaldırma",
+    "CMD_SET_PREFIX_": "değiştirile bilir prefix",
+    "CMD_RESET_PREFIX_": "değiştirile bilir prefixi kaldır"
+  },
+  "Admin": {
+    "ENTER_IP_": "Bir IP address girin",
+    "NOT_ADMIN_": "sen sunucu admini değilsin",
+    "WANT_TRANSLATED_": "çevrilmiş bir dil ister misiniz? Discord'da bana ulaşın",
+    "LANG_SET_": "Topluluk dili olarak ayarlandı",
+    "PREFIX_SET_": "Özel önek olarak ayarlandı",
+    "PREFIX_RESET_": "Çzel önek kaldırıldı",
+    "WANT_TO_ADD_": "Sunucu eklemek ister misiniz? {0}/{1}",
+    "ENTER_NAME_": "Server adı girin",
+    "SERVER_ADDED_": "Sunucu eklendi",
+    "SERVER_REMOVED_": "Sunucu silindi",
+    "ALREADY_ADDED_": "Bu sunucu zaten listede",
+    "SELECT_NUMBER_": "Bir numara seç",
+    "INVALID_NUMBER_": "Numara bulunamadı",
+    "TRANSLATORS_": "Çevirmen",
+    "HAS_ROLE_": "Bu sunucunun Minecraft rolü zaten var",
+    "INVALID_CHANNEL_": "Kanal bulunamadı"
+  }
+}
